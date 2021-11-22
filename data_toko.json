@@ -1,0 +1,20 @@
+[
+    {
+        "NAME": "Toppas Kuning",
+        "CAPACITY": 0,
+        "STOCK": 10,
+        "PRICE": 7500
+    },
+    {
+        "NAME": "Toppas Merah",
+        "CAPACITY": 0,
+        "STOCK": 10,
+        "PRICE": 10000
+    },
+    {
+        "NAME": "Pro Mild",
+        "CAPACITY": 0,
+        "STOCK": 10,
+        "PRICE": 21500
+    }
+]
