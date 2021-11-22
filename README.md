@@ -1,2 +1,2 @@
-# oit
+# My Project
 Cashier
